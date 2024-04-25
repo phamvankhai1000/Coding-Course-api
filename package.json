@@ -14,7 +14,6 @@
     "react-dom": "^16.8.6",
     "saoviet-caculator": "0.1.0",
     "rewiki-exchange": "0.1.0",
-    "saoviet-caculator-App": "0.1.0",
     "saoviet-caculator-module": "0.1.0"
   },
   "scripts": {
